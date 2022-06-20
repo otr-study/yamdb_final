@@ -3,7 +3,6 @@ from os import path
 
 from django.core.management.base import BaseCommand
 from django.utils.dateparse import parse_datetime
-
 from reviews.models import (Categories, Comment, Genres, Review, Title,
                             TitlesGenres, User)
 
