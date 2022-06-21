@@ -69,4 +69,5 @@ jobs:
             sudo docker compose up -d
             sudo docker compose exec web python manage.py migrate
             sudo docker compose exec web python manage.py collectstatic --no-input
+            sudo docker compose exec web python manage.py load_data_csv staticfiles/data
 
