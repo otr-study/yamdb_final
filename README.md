@@ -1,4 +1,4 @@
-![example workflow](https://github.com/otr-study/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![api_yamdb workflow](https://github.com/otr-study/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # API YAMDB
 Обеспечивает доступ к API ресурса Yamdb.
 Проект YaMDb собирает отзывы пользователей на произведения.
