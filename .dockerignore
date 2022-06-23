@@ -1,0 +1,4 @@
+*.md
+.gitignore
+yamdb_workflow.yml
+.github/workflows
